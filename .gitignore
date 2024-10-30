@@ -1,0 +1,6 @@
+synthetic/synthetic_plots.R
+synthetic/*.png
+synthetic/*.rds
+wind/wind_plots.R
+wind/*.png
+wind/*.rds
