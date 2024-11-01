@@ -5,8 +5,6 @@
 library(tidyverse)
 library(Directional)
 
-###
-
 db <- read_csv("wind.csv", show_col_types = FALSE)
 
 set.seed(42)
