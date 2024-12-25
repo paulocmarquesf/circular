@@ -1,6 +1,6 @@
 # circular
 
-Conformal prediction of circular data
+Projected random forests and conformal prediction of circular data
 
 > Paulo C. Marques F., Rinaldo Artes and Helton Graziadei
 
